@@ -4,6 +4,6 @@ def speak_to_grandma(phrase)
   elsif phrase == "I love you grandma!".downcase
     return  "I LOVE YOU TOO PUMPKIN!"
   else phrase == "i love you GRandma"
-    return "HUH?! SPEAK UP SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
   end
 end
